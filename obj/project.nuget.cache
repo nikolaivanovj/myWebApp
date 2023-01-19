@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nYBB7z16QElb1QZyGbrQVTKS+ehGIkngyDo0hxM+F7unUwwriZKLVkH4jJxUZ9hXIljntD5uHWydyrz74LiTYw==",
+  "dgSpecHash": "HdND2BV0/aNGVFAQ2j2G0bFti0ywO0p6SJkLqbiFVPWsh89gQRaC6kpn6odX4VanzKt5Pkaosp5uyH+IyDQY1A==",
   "success": true,
-  "projectFilePath": "C:\\Git\\myWebApp\\myWebApp.csproj",
+  "projectFilePath": "c:\\Git\\myWebApp\\myWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
